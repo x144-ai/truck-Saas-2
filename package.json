@@ -1,0 +1,22 @@
+{
+  "name": "trucking-saas",
+  "version": "1.0.0",
+  "description": "AI-powered trucking SaaS",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0",
+    "firebase": "^9.6.1"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "postinstall": "npm install --save-dev react-scripts"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
